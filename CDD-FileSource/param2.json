@@ -1,7 +1,7 @@
 {
 "parameters":[{
   "name":"ReleaseName",
-  "value":"it works2"
+  "value":"it works this time"
 },
               {"name":"RunOnCreation",
   "value":"true"
