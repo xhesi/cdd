@@ -1,0 +1,10 @@
+{
+"parameters":[{
+  "name":"ReleaseName",
+  "value":"it works"
+}],
+"reference":{
+  "fileName":"template.json",
+  "fileSource":"CDD Files Source"
+}
+}
