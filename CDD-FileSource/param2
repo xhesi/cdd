@@ -1,0 +1,13 @@
+{
+"parameters":[{
+  "name":"ReleaseName",
+  "value":"it works2"
+},
+              {"name":"RunOnCreation",
+  "value":"true"
+              }],
+"reference":{
+  "fileName":"template.json",
+  "fileSource":"CDD Files Source"
+}
+}
